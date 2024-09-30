@@ -10,7 +10,7 @@ Streamlined data processing & analysis to monitor key performance metrics and tr
 
 ![image](https://github.com/user-attachments/assets/ed215170-68a4-46b0-bc8f-59c872d9bdc3) 
 
-insights
+Insights
 ----------
 
 credit card weekly dashboard that provides real-time insights into key performance metrics and trends,
